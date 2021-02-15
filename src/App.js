@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './App.scss';
 // import chat engine
 import { ChatEngine } from 'react-chat-engine';
 // import components
